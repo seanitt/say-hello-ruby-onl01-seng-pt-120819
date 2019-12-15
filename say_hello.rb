@@ -1,1 +1,2 @@
-# say_hello >(lanuage= "hello ")
+# say_hello >(lanuage= "hello , Sean")
+  puts 
