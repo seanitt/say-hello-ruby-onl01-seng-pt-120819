@@ -1,4 +1,1 @@
-greeting say_hello("RUBY")
-    puts 
-  # RUBY
-end
+# say_hello
