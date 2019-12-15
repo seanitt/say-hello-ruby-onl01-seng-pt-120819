@@ -1,3 +1,3 @@
 # say_hello >(lanuage= "hello , Sean")
-  puts "Hello, #{sean}
+  puts "Hello, Sean!"
 end
